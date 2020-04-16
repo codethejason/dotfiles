@@ -1,0 +1,3 @@
+[submodule "vim/pack/my-plugins/start/vim-hardtime"]
+	path = vim/pack/my-plugins/start/vim-hardtime
+	url = https://github.com/takac/vim-hardtime
